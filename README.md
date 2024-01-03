@@ -1,2 +1,2 @@
 # delta-demo
-This is a demo repository for delta student.
+This is a demo for Git & Github class
